@@ -1,0 +1,23 @@
+.l{
+    display:block;
+    border: 1px solid black;
+    margin:2px;
+    background-color: coral;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.l1{
+    height:30px;
+    width:30px;
+}
+
+.l2{
+    height:30px;
+    width:65px;
+}
+
+.l3{
+    height:30px;
+    width:101px;
+}

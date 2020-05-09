@@ -1,0 +1,12 @@
+.screen{
+    display:block;
+    height:60px;
+    width:100%;
+    border: 1px solid black;
+    margin:2px;
+    background-color:ghostwhite;
+    color:black;
+    font-size: 25px;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

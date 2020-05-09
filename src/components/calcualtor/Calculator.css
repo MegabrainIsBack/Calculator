@@ -1,0 +1,9 @@
+.calculator{
+    display:flex;
+    width:180px;
+    height:350px;
+    border:2px solid black;
+    flex-wrap: wrap;
+    padding:10px;
+    justify-content: center;
+}
